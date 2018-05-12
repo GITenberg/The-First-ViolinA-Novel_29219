@@ -1,0 +1,35 @@
+_repo: The-First-ViolinA-Novel_29219
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29219-h/images/icover.png
+creator:
+  author:
+    agent_name: Fothergill, Jessie
+    birthdate: 1851
+    deathdate: 1891
+    gutenberg_agent_id: '33771'
+    url: http://www.gutenberg.org/2009/agents/33771
+description: May Wedderburn is living a quiet, dull life in a small town in England
+  with her family of two sisters and their parents.  A local landowner is attracted
+  to May and offers  to marry her, but she refuses.  At this point, her sister Adelaide  points
+  out that their inheritance will not be enough for the three to live in any comfort,
+  so since her "fortune is her face", May was foolish to turn down Sir Peter.  At
+  this point, Sir Peter's former sister in law offers to take may to Germany where
+  her face and her musical talent quickly gain her admission to a world of music and
+  excitement
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'The First Violin
+
+  A Novel'
+url: http://www.gutenberg.org/ebooks/29219
